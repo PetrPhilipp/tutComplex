@@ -18,7 +18,7 @@ after_success:
   # login to docker with vars from travis
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
   # push to docker
-  - docker push /multi-client
-  - docker push /multi-nginx
-  - docker push /multi-server
-  - docker push /multi-worker
+  - docker push petrph/multi-client
+  - docker push petrph/multi-nginx
+  - docker push petrph/multi-server
+  - docker push petrph/multi-worker
