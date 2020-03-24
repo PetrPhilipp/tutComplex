@@ -25,7 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5fa43a6-043e-4c0b-aa8b-20c0c93781f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
@@ -108,8 +110,17 @@
       <updated>1580986739035</updated>
       <workItem from="1580986741828" duration="14048000" />
       <workItem from="1583846144975" duration="4864000" />
-      <workItem from="1583855751720" duration="8788000" />
+      <workItem from="1583855751720" duration="10918000" />
+      <workItem from="1585047402848" duration="4056000" />
     </task>
+    <task id="LOCAL-00001" summary="aws">
+      <created>1585075621852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585075621852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,11 +129,19 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aws" />
+    <option name="LAST_COMMIT_MESSAGE" value="aws" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1013" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581077984834">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1013" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1581077984834" />
+    <state x="-1669" y="-56" key="CommitChangelistDialog2" timestamp="1585075621715">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1669" y="-56" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-367.2560.1417@-2560.-367.2560.1417" timestamp="1585075621715" />
     <state width="2518" height="189" key="GridCell.Tab.0.bottom" timestamp="1583854601780">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -143,6 +162,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="789" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1581072197022" />
+    <state x="-1680" y="81" key="Vcs.Push.Dialog.v2" timestamp="1585075623533">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1680" y="81" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.-367.2560.1417@-2560.-367.2560.1417" timestamp="1585075623533" />
     <state x="517" y="759" key="com.intellij.ide.util.TipDialog" timestamp="1583855779551">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
